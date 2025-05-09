@@ -1,4 +1,4 @@
-package com.university;
+package com.university.dao;
 
 
 import org.springframework.beans.factory.annotation.Autowired;

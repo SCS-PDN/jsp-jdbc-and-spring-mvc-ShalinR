@@ -7,7 +7,6 @@ public class Course {
     private String instructor;
     private int credits;
 
-    // Getters and Setters
     public int getId() { return id; }
     public void setId(int id) { this.id = id; }
 
